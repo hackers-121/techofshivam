@@ -1,0 +1,108 @@
+body{background-image: url("bodybg.jpg") ;
+    background-size: cover ; 
+     
+}
+.head{
+    font-size: 9px ;
+    font-family: sans-serif;
+    color: white ; 
+}
+img{
+    height: 20px ;
+    display: inline-block;
+   
+    
+    
+}
+
+div.navbar{
+    height: 20px ;
+    background: #2A6B9E ;
+    align-content: right ; 
+    margin-left: 700px ; 
+    height: 15px ;
+    background: white ;
+    display: inline-block; 
+    
+    
+}
+
+div.form h3{font-size: 13px ; 
+}
+
+div.form h1{font-size: 18px ; 
+    
+}
+
+div.logo{
+    display: inline-block ;  
+    margin-top : 80px ;
+    margin-left: 100px ; 
+    height : 200px ; 
+    width : 400px ; 
+    border-radius: 4px ; 
+    text-align: center ; 
+
+}
+
+div.logo p{text-align: right ; 
+    
+    
+}
+div.form{text-align: center ; 
+    display: inline-block ; 
+    box-shadow: 7px 5px 5px 3px #173459 ;
+    margin-top : 200px ;
+    margin-left: 150px ; 
+    border-radius: 4px ; 
+    line-height: 8px ; 
+    height : 230px ; 
+    width : 310px ; 
+    border: 2px solid black ; 
+    background: #234467 ;
+    background-size: cover ; 
+    
+    
+}
+
+.input{color: white ; 
+    background-color: rgba(256,256,256,0.09) ;
+    border: 1px solid white ; 
+    border-radius: 20px ;
+    width: 150px ; 
+}
+
+a { 
+    background-color: transparent ; 
+    font-style: inherit ; 
+    
+}
+
+a.button1{
+    font-size: 14px;
+    cursor : pointer;
+    text-align: center ;
+    text-decoration: none;
+    outline: none ; 
+    color: #fff;
+    background-color: transparent; 
+    border: none;
+    border-radius: 15px ;
+    box-shadow: 0 4px #999 ; 
+    
+}
+a.button1:hover{
+    background-color: transparent;
+}
+a.button1:active{
+    background-color: rgba(256,6,256,0.15);
+    box-shadow: 0 5px #666;
+    transform: translatey(4px)
+       
+}
+
+.click1{color: white ; 
+    font-size: 14px;
+    text-decoration: none;
+    
+}
